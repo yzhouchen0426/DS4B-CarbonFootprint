@@ -1,0 +1,3 @@
+python -m pip install -U matplotlib
+python -m pip install numpy
+python -m pip install pandas
